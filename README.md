@@ -1,7 +1,7 @@
 ## Hello!! I am Lucas Castro!💥
 
 - **I'm an Information Systems student** 
-- **I intend to delve a little deeper into Java**🌐
+- **I intend to delve a little deeper into Java**
 - **18 years old**
 
 <div>
