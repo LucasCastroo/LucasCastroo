@@ -2,7 +2,7 @@
 
 - **I'm an Information Systems student** 
 - **I intend to delve a little deeper into Java**
-- **18 years old**
+- **19 years old**
 
 <div>
   <a href="https://github.com/LucasCastroo">
