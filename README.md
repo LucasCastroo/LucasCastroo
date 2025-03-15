@@ -1,7 +1,7 @@
 ## Hello!! I am Lucas Castro!💥
 
 - **I'm an Information Systems student** 
-- **I intend to delve a little deeper into Java**
+- **I want to pursue a career in the area of IT Governance**
 - **20 years old**
 
 <div>
